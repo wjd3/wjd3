@@ -1,2 +1,1 @@
-- 🌐 Site: [liamdavis.dev](https://liamdavis.dev)
-- 📫 Email: [liamdavis@tuta.io](mailto:liamdavis@tuta.io)
+
